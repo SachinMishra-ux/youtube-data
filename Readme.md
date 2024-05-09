@@ -1,3 +1,3 @@
 # Personalized video summary
 
-![Workflow](./assets/FlowChart .png)
+![Workflow](./assets/FlowChart.png)
